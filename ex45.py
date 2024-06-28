@@ -19,3 +19,4 @@ elif r == 3 and a == 1:
     print('Eu ganhei escolhi pedra')
 elif r == 3 and a == 2:
     print('Voce ganhou eu escolhi pedra')
+    print('a')
