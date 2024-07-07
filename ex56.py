@@ -19,6 +19,6 @@ for c in range(1, 5):
             maioridadehomem = idade
             nomevelho = nome
 mediaidade = somaidade/4
-print('A média de idade dessas pessoas é {}.'.format(mediaidade))
+print('A média de idade dessas pessoas é {:.0f}.'.format(mediaidade))
 print('A idade do homem mais velho é {} e seu nome é {}'.format(maioridadehomem, nomevelho))
-print("A quantidade de pessoas menores de 20 anos é {}".format(mulhernova))
+print("A quantidade de mulheres menores de 20 anos é {}".format(mulhernova))
