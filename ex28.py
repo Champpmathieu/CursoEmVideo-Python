@@ -7,4 +7,4 @@ player = int(input('Em que número pensei? '))
 if player == computador:
     print('Você acertou o número!')
 else:
-    print('Você erro o número!')
+    print('Você errou o número!')
